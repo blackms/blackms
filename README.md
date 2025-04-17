@@ -81,9 +81,6 @@ HCL                      1 repo              █░░░░░░░░░░�
  Last Updated on 17/04/2025 22:56:59 UTC
 <!--END_SECTION:waka-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=blackms&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackms&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackms)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **blackms/blackms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
