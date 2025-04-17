@@ -1,5 +1,5 @@
 ### HELLO
-[![GitHub Streak](https://streak-stats.demolab.com/?user=blackms)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=blackms&theme=dark)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackms&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackms)](https://github.com/anuraghazra/github-readme-stats)
