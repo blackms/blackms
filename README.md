@@ -1,5 +1,14 @@
 ### HELLO
 <!--START_SECTION:waka-->
+
+```txt
+Python       4 hrs 8 mins    ███████████████░░░░░░░░░░   60.01 %
+Markdown     1 hr 47 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+TypeScript   34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+```
+
 <!--END_SECTION:waka-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=blackms&theme=dark)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackms&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
