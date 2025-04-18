@@ -44,8 +44,8 @@
 ### 🏢 Professional Snapshot
 | Year | Role | Company / Project |
 |------|------|-------------------|
-| 2017‑2024 | Staff Solution Architect | VMware Italy |
-| 2018‑present | Founder & Lead Engineer | NeuralTrading.group |
+| 2017‑2024 | Staff Solution Architect | VMware |
+| 2018‑present | Founder & Lead Engineer | NeuralTrading |
 | 2023‑present | Creator | AlphaPulse |
 | 2009‑2017 | Cloud / R&D Engineer | Dada → Trii → Aruba |
 
