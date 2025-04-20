@@ -8,12 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="http://img.shields.io/badge/Code%20Time-7%20hrs%2045%20mins-blue" alt="code-time"/>
-  <img src="http://img.shields.io/badge/Profile%20Views-94-blue" alt="profile-views"/>
-  <img src="https://img.shields.io/github/followers/blackms?style=social" alt="GitHub followers"/>
-</p>
-
 <div align="center" style="margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
