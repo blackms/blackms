@@ -2,12 +2,6 @@
   Hi there, I'm Alessio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h3>
 
-<p align="center">
-  <a href="https://github.com/blackms">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full‑stack+Engineer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
 <div align="center" style="margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
