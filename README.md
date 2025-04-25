@@ -84,17 +84,17 @@
 
 ### ⏰ Weekly Coding Breakdown (via WakaTime)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-191-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-200-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 62.7 kB Used in GitHub's Storage 
+> 📦 62.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,521 Contributions in the Year 2025
+> 🏆 1,552 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,54 +102,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-🌆 Daytime                1530 commits        ████████░░░░░░░░░░░░░░░░░   33.14 % 
-🌃 Evening                2085 commits        ███████████░░░░░░░░░░░░░░   45.16 % 
-🌙 Night                  533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Tuesday                  585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Wednesday                627 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Thursday                 654 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Friday                   1094 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Saturday                 608 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Sunday                   421 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-Python                   15 hrs 12 mins      ████████████░░░░░░░░░░░░░   46.84 % 
-Markdown                 12 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   37.13 % 
-JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Git Config               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-
-🔥 Editors: 
-VS Code                  32 hrs 27 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-backend                  7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-matching_service         6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-AlphaPulse               5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-SpreadPilot              4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Lean                     3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-
-💻 Operating System: 
-Linux                    31 hrs 21 mins      ████████████████████████░   96.62 % 
-Windows                  1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -167,7 +119,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blackms/blackms/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2025 21:52:23 UTC
+ Last Updated on 25/04/2025 23:36:59 UTC
 <!--END_SECTION:waka-->
 
 ---
