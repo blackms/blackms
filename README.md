@@ -18,9 +18,11 @@
 ### 🌍 About Me
 - 🤖 **ML Solutions Architect & Startup Founder**  
   Former Senior Cloud Solution Architect at VMware, where I supported 150+ cloud partners across Italy.   
-- 📈 **Founder, NeuralTrading.group (2018‑present)** — building ML‑driven crypto/FX/stock strategies.  
+- 📈 **Founder, NeuralTrading.group (2018‑present)** — building ML‑driven crypto/FX/stock strategies.
+- 💼 **Co-Founder & Lead Engineer, Aigen Solutions SRL** - Leading technical development and strategy at a company focused on advanced AI/ML solutions.  
 - 🔭 Currently shipping **SpreadPilot** & **AlphaPulse**, open‑source platforms for quantitative trading.  
-- 🧑‍🎓 B.Sc. **Computer Science, University of Milan** (2014).  
+- 🧑‍🎓 B.Sc. **Computer Science, University of Milan** (2014).
+- 🧑‍🎓 MSc in **Applied Artificial Intelligence, Stanford** (2024).
 - 📣 Frequent speaker & mentor on cloud‑native, MLOps and DevOps.  
 - 🦉 Night‑owl coder | 🏔 Weekend alpine hiker.  
 - 🌱 Learning **Rust** & **distributed systems**.  
