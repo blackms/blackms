@@ -32,9 +32,10 @@
 ### 🏢 Professional Snapshot
 | Year | Role | Company / Project |
 |------|------|-------------------|
+| 2025‑present | Founder & Lead Engineer | AIgen Solutions s.r.l. |
+| 2018‑present | Founder & Lead Engineer | NeuralTrading LTD |
+| 2023‑present | Creator and Active Mantainer OSS Project| AlphaPulse |
 | 2017‑2024 | Staff Solution Architect | VMware |
-| 2018‑present | Founder & Lead Engineer | NeuralTrading |
-| 2023‑present | Creator | AlphaPulse |
 | 2009‑2017 | Cloud / R&D Engineer | Dada → Trii → Aruba |
 
 ---
