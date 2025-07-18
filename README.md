@@ -87,15 +87,17 @@
 
 ### ⏰ Weekly Coding Breakdown (via WakaTime)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 178.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 3,250 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -130,21 +132,21 @@ Sunday                   6008 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   14 hrs 22 mins      ████████████████████░░░░░   81.07 % 
-Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-TypeScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Python                   11 hrs 51 mins      ███████████████████░░░░░░   77.93 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+TypeScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LilloLLMMultiAgent       12 hrs 41 mins      ██████████████████░░░░░░░   71.57 % 
-Abbanoa                  5 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+LilloLLMMultiAgent       10 hrs 58 mins      ██████████████████░░░░░░░   72.15 % 
+Abbanoa                  4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
 
 💻 Operating System: 
-Linux                    17 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +166,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blackms/blackms/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2025 18:51:32 UTC
+ Last Updated on 18/07/2025 18:51:18 UTC
 <!--END_SECTION:waka-->
 
 ---
