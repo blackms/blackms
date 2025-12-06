@@ -173,15 +173,6 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 ---
 
-### 🛠️ Latest Projects
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **SpreadPilot** | Automated trading strategy back‑tester and live scheduler | Python · FastAPI · NumPy · Pandas |
-| **Backend** | RESTful micro‑services template with auth, observability and CI/CD | Python · FastAPI · PostgreSQL · Docker |
-| **Frontend** | React dashboard for analytics and monitoring | TypeScript · React · Tailwind CSS |
-
----
-
 ### ☕️ Support
 If my work helped you, consider buying me a coffee 🙏
 
