@@ -168,12 +168,6 @@ HTML                     3 repos             █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/blackms/blackms/main/assets/bar_graph.png)
-
-
  Last Updated on 05/12/2025 19:07:39 UTC
 <!--END_SECTION:waka-->
 
