@@ -19,13 +19,13 @@
 - 🤖 **ML Solutions Architect & Startup Founder**  
   Former Staff Solution Architect at VMware, where I supported 150+ cloud partners across Italy.   
 - 💼 **Co-Founder & Lead Engineer, AIgen Solutions SRL** - Leading technical development and strategy at a company focused on advanced AI/ML solutions.  
-- 🔭 Currently shipping [**SpreadPilot**](https://github.com/AIgen-Solutions-s-r-l/SpreadPilot), a microservices-based platform for scalable options trading automation.  
+- 🔭 Current focus: **agent orchestration & Claude Code tooling** (see [`aistack`](https://github.com/blackms/aistack)) and **quant trading platforms** (see [`SpreadPilot`](https://github.com/AIgen-Solutions-s-r-l/SpreadPilot)).  
 - 🧑‍🎓 B.Sc. **Computer Science, University of Milan** (2014).
 - 🧑‍🎓 MSc in **Applied Artificial Intelligence, Stanford** (2024).
 - 📣 Frequent speaker & mentor on cloud‑native, MLOps and DevOps.  
 - 🦉 Night‑owl coder | 🏔 Weekend alpine hiker.  
-- 🌱 Learning **Rust** & **distributed systems**.  
-- 💬 Ask me about **backend architecture, Python, Kubernetes, or trading algorithms**.  
+- 🌱 Shipping in **Rust** (see [`claude-code-monitor`](https://github.com/blackms/claude-code-monitor)) & exploring **distributed systems**.  
+- 💬 Ask me about **agent orchestration, backend architecture, Python, Kubernetes, or trading algorithms**.  
 - 📫 Reach me: **a.rocchi@aigensolutions.it**
 
 ---
@@ -70,9 +70,51 @@
 - 👥 Led cross‑functional squads (5‑8 engineers) and mentored junior devs on clean code & agile.  
 - 📈 Evangelised cloud‑native & DevOps best practices at conferences and internal workshops.  
 
+### 🌟 Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/blackms/aistack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackms&repo=aistack&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AIgen-Solutions-s-r-l/SpreadPilot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AIgen-Solutions-s-r-l&repo=SpreadPilot&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AIgen-Solutions-s-r-l/BofhContract">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AIgen-Solutions-s-r-l&repo=BofhContract&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/blackms/claude-flow-go">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackms&repo=claude-flow-go&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/blackms/claude-code-monitor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackms&repo=claude-code-monitor&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/blackms/IntelliTrader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackms&repo=IntelliTrader&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackms&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blackms&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&hide_title=true" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=blackms&theme=dark&hide_border=true"/>
 </p>
 
