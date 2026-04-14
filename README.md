@@ -1,15 +1,30 @@
-<h3 align="center">
-  Hi there, I'm Alessio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h3>
+<h1 align="center">
+  Hi there, I'm Alessio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+</h1>
+
+<p align="center">
+  <a href="https://github.com/blackms">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=ML+Solutions+Architect+%E2%80%A2+Startup+Founder;Co-Founder+%40+AIgen+Solutions+SRL;Agent+orchestration+%26+Claude+Code+tooling;Shipping+Python+%E2%80%A2+Go+%E2%80%A2+Rust+%E2%80%A2+TypeScript;Quant+trading+%26+ML+platforms" alt="Typing headline"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://alessiorocchi.com"><img src="https://img.shields.io/badge/Website-alessiorocchi.com-0A66C2?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:a.rocchi@aigensolutions.it"><img src="https://img.shields.io/badge/Email-a.rocchi%40aigensolutions.it-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/AIgen-Solutions-s-r-l"><img src="https://img.shields.io/badge/Org-AIgen%20Solutions-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://ko-fi.com/blackms"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat&logo=kofi&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=blackms&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 <div align="center" style="margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </div>
 
@@ -95,6 +110,21 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackms&theme=github-compact&hide_title=true"/>
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackms/blackms/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+</p>
+
+### 🎯 Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackms/blackms/main/metrics.svg" alt="Metrics" width="49%"/>
+  <img src="https://raw.githubusercontent.com/blackms/blackms/main/metrics.languages.svg" alt="Languages" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackms/blackms/main/metrics.habits.svg" alt="Habits" width="49%"/>
+  <img src="https://raw.githubusercontent.com/blackms/blackms/main/metrics.achievements.svg" alt="Achievements" width="49%"/>
 </p>
 
 ---

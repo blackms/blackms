@@ -1,0 +1,73 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Core metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: blackms
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Rome
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 15
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.achievements.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: blackms
+          base: ""
+          config_timezone: Europe/Rome
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_limit: 0
+
+      - name: Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: blackms
+          base: ""
+          config_timezone: Europe/Rome
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: blackms
+          base: ""
+          config_timezone: Europe/Rome
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, tex, shell, dockerfile, makefile
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
