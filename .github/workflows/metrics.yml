@@ -30,34 +30,6 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_limit: 15
 
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.achievements.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: blackms
-          base: ""
-          config_timezone: Europe/Rome
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
-
-      - name: Habits
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.habits.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: blackms
-          base: ""
-          config_timezone: Europe/Rome
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
       - name: Languages
         uses: lowlighter/metrics@latest
         with:

@@ -122,10 +122,6 @@
   <img src="https://raw.githubusercontent.com/blackms/blackms/main/metrics.svg" alt="Metrics" width="49%"/>
   <img src="https://raw.githubusercontent.com/blackms/blackms/main/metrics.languages.svg" alt="Languages" width="49%"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blackms/blackms/main/metrics.habits.svg" alt="Habits" width="49%"/>
-  <img src="https://raw.githubusercontent.com/blackms/blackms/main/metrics.achievements.svg" alt="Achievements" width="49%"/>
-</p>
 
 ---
 
