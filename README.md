@@ -71,51 +71,26 @@
 - 📈 Evangelised cloud‑native & DevOps best practices at conferences and internal workshops.  
 
 ### 🌟 Featured Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/blackms/aistack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackms&repo=aistack&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AIgen-Solutions-s-r-l/SpreadPilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AIgen-Solutions-s-r-l&repo=SpreadPilot&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AIgen-Solutions-s-r-l/BofhContract">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AIgen-Solutions-s-r-l&repo=BofhContract&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/blackms/claude-flow-go">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackms&repo=claude-flow-go&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/blackms/claude-code-monitor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackms&repo=claude-code-monitor&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/blackms/IntelliTrader">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=blackms&repo=IntelliTrader&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+| Project | Description | Stack |
+|---|---|---|
+| **[aistack](https://github.com/blackms/aistack)** <br/> ![](https://img.shields.io/github/stars/blackms/aistack?style=flat&logo=github&label=%E2%98%85&color=333) | Production-grade agent orchestration for Claude Code — 11 agents, 46 MCP tools. | ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **[SpreadPilot](https://github.com/AIgen-Solutions-s-r-l/SpreadPilot)** <br/> ![](https://img.shields.io/github/stars/AIgen-Solutions-s-r-l/SpreadPilot?style=flat&logo=github&label=%E2%98%85&color=333) | Microservices-based platform for scalable options trading automation. | ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **[BofhContract](https://github.com/AIgen-Solutions-s-r-l/BofhContract)** <br/> ![](https://img.shields.io/github/stars/AIgen-Solutions-s-r-l/BofhContract?style=flat&logo=github&label=%E2%98%85&color=333) | On-chain arbitrage system for decentralized exchanges on BSC. | ![](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white) |
+| **[claude-flow-go](https://github.com/blackms/claude-flow-go)** <br/> ![](https://img.shields.io/github/stars/blackms/claude-flow-go?style=flat&logo=github&label=%E2%98%85&color=333) | Go implementation of claude-flow v3 — multi-agent orchestration framework. | ![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
+| **[claude-code-monitor](https://github.com/blackms/claude-code-monitor)** <br/> ![](https://img.shields.io/github/stars/blackms/claude-code-monitor?style=flat&logo=github&label=%E2%98%85&color=333) | Real-time TUI monitor for Claude Code sessions, written in Rust. | ![](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white) |
+| **[IntelliTrader](https://github.com/blackms/IntelliTrader)** <br/> ![](https://img.shields.io/github/stars/blackms/IntelliTrader?style=flat&logo=github&label=%E2%98%85&color=333) | Crypto trading bot for Binance — virtual/live, DCA, signal engine. | ![](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackms&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=blackms&theme=github_dark" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=blackms&theme=dark&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackms&theme=github_dark" alt="Most used languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackms&theme=github_dark&utcOffset=1" alt="Productive time"/>
 </p>
 
 <p align="center">
