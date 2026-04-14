@@ -17,17 +17,16 @@
 
 ### 🌍 About Me
 - 🤖 **ML Solutions Architect & Startup Founder**  
-  Former Senior Cloud Solution Architect at VMware, where I supported 150+ cloud partners across Italy.   
-- 📈 **Founder, NeuralTrading.group (2018‑present)** — building ML‑driven crypto/FX/stock strategies.
-- 💼 **Co-Founder & Lead Engineer, Aigen Solutions SRL** - Leading technical development and strategy at a company focused on advanced AI/ML solutions.  
-- 🔭 Currently shipping **SpreadPilot** & **AlphaPulse**, open‑source platforms for quantitative trading.  
+  Former Staff Solution Architect at VMware, where I supported 150+ cloud partners across Italy.   
+- 💼 **Co-Founder & Lead Engineer, AIgen Solutions SRL** - Leading technical development and strategy at a company focused on advanced AI/ML solutions.  
+- 🔭 Currently shipping [**SpreadPilot**](https://github.com/AIgen-Solutions-s-r-l/SpreadPilot), a microservices-based platform for scalable options trading automation.  
 - 🧑‍🎓 B.Sc. **Computer Science, University of Milan** (2014).
 - 🧑‍🎓 MSc in **Applied Artificial Intelligence, Stanford** (2024).
 - 📣 Frequent speaker & mentor on cloud‑native, MLOps and DevOps.  
 - 🦉 Night‑owl coder | 🏔 Weekend alpine hiker.  
 - 🌱 Learning **Rust** & **distributed systems**.  
 - 💬 Ask me about **backend architecture, Python, Kubernetes, or trading algorithms**.  
-- 📫 Reach me: **alessio@aigenconsult.com**
+- 📫 Reach me: **a.rocchi@aigensolutions.it**
 
 ---
 
@@ -35,8 +34,6 @@
 | Year | Role | Company / Project |
 |------|------|-------------------|
 | 2025‑present | Founder & Lead Engineer | AIgen Solutions s.r.l. |
-| 2018‑present | Founder & Lead Engineer | NeuralTrading LTD |
-| 2023‑present | Creator and Active Mantainer OSS Project| AlphaPulse |
 | 2017‑2024 | Staff Solution Architect | VMware |
 | 2009‑2017 | Cloud / R&D Engineer | Dada → Trii → Aruba |
 
