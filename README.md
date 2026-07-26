@@ -127,13 +127,13 @@
 
 ### ⏰ Weekly Coding Breakdown (via WakaTime)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C069%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C100%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 17,997 Contributions in the Year 2026
+> 🏆 18,046 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -144,21 +144,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                207440 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-🌆 Daytime                372888 commits      ████████░░░░░░░░░░░░░░░░░   32.28 % 
-🌃 Evening                435626 commits      █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌙 Night                  139356 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+🌞 Morning                207619 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌆 Daytime                373429 commits      ████████░░░░░░░░░░░░░░░░░   32.28 % 
+🌃 Evening                436136 commits      █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌙 Night                  139815 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   147250 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Tuesday                  120941 commits      ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Wednesday                205818 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Thursday                 160432 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Friday                   201859 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Saturday                 140937 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Sunday                   178073 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Monday                   147250 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Tuesday                  120941 commits      ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Wednesday                205845 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Thursday                 160756 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   202633 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Saturday                 141247 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Sunday                   178327 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 ```
 
 
@@ -168,30 +168,30 @@ Sunday                   178073 commits      ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 35 hrs 8 mins       ███████████░░░░░░░░░░░░░░   45.30 % 
-TypeScript               11 hrs 45 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Other                    11 hrs 27 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Python                   9 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-PowerShell               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Markdown                 35 hrs 48 mins      ███████████░░░░░░░░░░░░░░   45.07 % 
+TypeScript               12 hrs 58 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Other                    11 hrs 16 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Python                   8 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+PowerShell               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-Claude Code              69 hrs 36 mins      ██████████████████████░░░   89.72 % 
-VS Code                  7 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Antigravity CLI          19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Exec Wakatime            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Codex                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              72 hrs 5 mins       ███████████████████████░░   90.75 % 
+VS Code                  6 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Antigravity CLI          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Exec Wakatime            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Codex                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-Boldyn                   23 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   30.45 % 
-Game                     15 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-AlphaPulse               10 hrs 19 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-NewPlatform              7 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Camp                     7 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Boldyn                   22 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Game                     18 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+AlphaPulse               10 hrs 11 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Camp                     8 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+NewPlatform              7 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 
 💻 Operating System: 
-Mac                      40 hrs 56 mins      █████████████░░░░░░░░░░░░   52.76 % 
-Windows                  27 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   35.95 % 
-Linux                    8 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Mac                      43 hrs              ██████████████░░░░░░░░░░░   54.13 % 
+Windows                  27 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
+Linux                    9 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 ```
 
 **I Mostly Code in Python** 
@@ -211,7 +211,7 @@ Rust                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/blackms/blackms/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 21:12:24 UTC
+ Last Updated on 26/07/2026 21:41:18 UTC
 <!--END_SECTION:waka-->
 
 ---
